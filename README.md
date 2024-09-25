@@ -1,5 +1,5 @@
 ### Project Title:
-#### Telcome-Customer-Churn_Analysis
+### Telcome-Customer-Churn_Analysis
 ### Project Description:
 #### The "Telco Customer Churn Analysis" typically involves analyzing customer data from a telecommunications company to understand why customers are leaving (churning) and to identify patterns that could predict future churn.This analysis helps businesses reduce churn rates by taking proactive steps to retain at-risk customers.Customer churn is a significant issue for big business companies. Companies are attempting to create methods for predicting customer churn to get a direct impact on getting more revenues, particularly in telecom companies. Finding these characteristics is crucial to ensure appropriate steps can be taken to reduce customer churn.
 #### ![image](https://github.com/user-attachments/assets/62e13e49-5172-4f81-b3e0-4560094e7aa1)
